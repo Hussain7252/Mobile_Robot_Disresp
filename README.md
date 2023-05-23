@@ -7,7 +7,7 @@ Developed a system using using TurtleBot 3 fitted with 360-degree LIDAR and Rasb
 
 The TurtleBot must generate a comprehensive map of the area while also identifying and cataloguing all the AprilTags present, including their unique ID numbers and absolute poses relative to the generated map.
 
-[![Video Title](https://www.youtube.com/watch?v=8zB-3f00F3s&t=4s)
+![Video Title](https://www.youtube.com/watch?v=8zB-3f00F3s&t=4s)
 
 The resulting system generated a comprehensive map of the area while also identifying and cataloguing all the AprilTags present, including their unique ID numbers and absolute poses relative to the generated map.
 
